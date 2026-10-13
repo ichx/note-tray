@@ -1,0 +1,15 @@
+.gitignore
+  h_39d612e6369d72 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "aa912a068b6cbe1ac3471abffb57d254f8803fdd",
+  "prompts": {},
+  "logical_commit_id": "aa912a068b6cbe1ac3471abffb57d254f8803fdd",
+  "humans": {
+    "h_39d612e6369d72": {
+      "author": "chenzenan <chenzenan@bigo.sg>"
+    }
+  }
+}
